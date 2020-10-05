@@ -5,7 +5,7 @@ CFLAGS=-ggdb -Wall -std=c99
 LDFLAGS=
 
 ifeq ($(UNAME_S), Darwin)
-    MEMCHECK=valgrind --tool=memcheck --leak-check=full --track-origins=yes --dsymutil=yes
+    MEMCHECK=valgrind --tool=memcheck --leak-check=full --track-origins=yes --dsymutil=yes --num-callers=50
 endif
 
 ifeq ($(UNAME_S), Linux)

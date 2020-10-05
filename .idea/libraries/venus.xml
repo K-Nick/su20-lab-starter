@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="venus">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/proj2/venus.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

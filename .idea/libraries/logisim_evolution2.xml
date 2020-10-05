@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="logisim-evolution2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lab05/testing/logisim-evolution.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

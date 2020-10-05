@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="proj3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/proj3/venus-cs61c-sp20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/proj3/logisim-evolution.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
